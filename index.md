@@ -2,14 +2,14 @@
 
 You can see The steps for be a master coder
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are 6 steps to be a master coder 
 
-### Markdown
+1.Moves to basic from to Advance level coding 
+2.build projects 
+3.You also know about programing language
+4.Also make Apps
+5.You will also learn about all type of languge in computer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
