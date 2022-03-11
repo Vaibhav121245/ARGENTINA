@@ -5,9 +5,13 @@ You can see The steps for be a master coder
 There are 6 steps to be a master coder 
 
 1.Moves to basic from to Advance level coding 
+
 2.build projects 
+
 3.You also know about programing language
+
 4.Also make Apps
+
 5.You will also learn about all type of languge in computer
 
 
