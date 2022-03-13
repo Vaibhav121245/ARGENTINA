@@ -41,11 +41,11 @@ Web designing is the creation of websites and pages to reflect a company's brand
 
 
 
-- Bulleted
+
 - List
 
-1. Numbered
-2. List
+1
+2.
 
 **Bold** and _Italic_ and `Code` text
 
