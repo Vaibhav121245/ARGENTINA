@@ -39,6 +39,8 @@ Web designing is the creation of websites and pages to reflect a company's brand
 
 # THIS IS ALL ABOUT WEB DESIGNING AND MASTER CODER 
 
+The website that I learn from - https://www.freecodecamp.org/,https://codedamn.com/learning-paths/python-mastery
 
+There is my youtube channel link-https://www.youtube.com/channel/UCbqFUG1LqX6b7J7CMN4BNvA 
 
 
