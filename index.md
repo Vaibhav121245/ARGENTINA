@@ -37,7 +37,7 @@ There are 6 steps to be a master coder
 Web designing is the creation of websites and pages to reflect a company's brand and information and ensure a user-friendly experience. Appearance and design are incorporated as vital elements whether you're designing a website, mobile app or maintaining content on a web page
 
 
-# THIS IS ALL ABOUT WEB DESIGNING AND MASTER CODER THANK YOU FOR READING ABOUT WEB DESIGNING AND MASTER CODER 
+# THIS IS ALL ABOUT WEB DESIGNING AND MASTER CODER 
 
 
 
